@@ -56,10 +56,10 @@
       //Create a slider for selection of rental burden ranges
       const slider = new Slider({
         container: "sliderDiv",
-        min: 5,
+        min: 10,
         max: 55,
         steps: 1,
-        values: [ 25 ],
+        values: [ 15 ],
         snapOnClickEnabled: false,
         visibleElements: {
           labels: true,
