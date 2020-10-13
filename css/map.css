@@ -1,0 +1,21 @@
+    html,
+    body,
+    #viewDiv {
+      padding: 0;
+      margin: 0;
+      height: 100%;
+      width: 100%;
+    }
+      #filterDiv {
+        background-color: white;
+        color: black;
+        padding: 6px;
+        width: 320px;
+      }
+    .esri-popup__action-text {
+        overflow:visible;
+    }
+    .slider {
+      width: 100%;
+      height: 60px;
+    }
